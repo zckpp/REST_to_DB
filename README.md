@@ -1,0 +1,1 @@
+This is a script for getting data using REST API with paging and save into database with singleton PDO connector.
